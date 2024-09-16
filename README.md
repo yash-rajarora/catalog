@@ -1,4 +1,8 @@
 # catalog
+simplified version of Shamir's Secret Sharing algorithm.
 
-1. Ensure Node.js is installed
-2. to run the file use node yash-raj-arora.js
+#  Requirements
+Ensure Node.js is installed
+
+#Running the code
+In the terminal, run the following command: node yash-raj-arora.js
